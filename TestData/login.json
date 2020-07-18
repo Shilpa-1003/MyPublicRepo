@@ -1,0 +1,14 @@
+{
+	"username": "pratyush87singh@gmail.com",
+	"password": "AutomationSupport@123",
+	"expUser": "Pratyush Singh",
+	"invalidUsername": " ",
+	"BlankEmailErrMsg": "An email address required.",
+	"invalidErrMsg": "Authentication failed.",
+	"non_exist_username": "pratyushsingh@gmail.com",
+    "blankErrMsg": "Password is required.",
+    "blank_password" : " ",
+    "pwdErrMsg"  : "Authentication failed.",
+    "non_exist_pwd" : "Automation@123"
+
+}
